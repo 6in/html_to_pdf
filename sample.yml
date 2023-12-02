@@ -1,0 +1,10 @@
+start_url: "https://future-architect.github.io/uroborosql-doc/"
+allowed_urls:
+  - "https://future-architect.github.io/uroborosql-doc/"
+  - "/uroborosql-doc/"
+pdf_option:
+  "page-size": "A2"
+  "encoding": "UTF-8"
+  "custom-header": 
+    - '("Accept-Encoding", "gzip")'
+  "no-outline": null
